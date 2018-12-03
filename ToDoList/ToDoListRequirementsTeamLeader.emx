@@ -45,28 +45,6 @@
         <children xmi:type="notation:ListCompartment" xmi:id="_3Di8ZdhMEeijPsEJykXn_Q" visible="false" type="Extension_Points"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3DhuQdhMEeijPsEJykXn_Q" x="4224" y="6336"/>
       </children>
-      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_IyUEMNhNEeijPsEJykXn_Q" element="_Hh8BcNhNEeijPsEJykXn_Q" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-        <children xmi:type="notation:DecorationNode" xmi:id="_IyUrQNhNEeijPsEJykXn_Q" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_IyUrQdhNEeijPsEJykXn_Q" width="2216" height="1322"/>
-        </children>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_IyUrQthNEeijPsEJykXn_Q" type="Stereotype"/>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_IyUrQ9hNEeijPsEJykXn_Q" type="Name"/>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_IyUrRNhNEeijPsEJykXn_Q" type="Parent"/>
-        <children xmi:type="notation:ListCompartment" xmi:id="_IyUrRdhNEeijPsEJykXn_Q" visible="false" type="Extension_Points"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IyUEMdhNEeijPsEJykXn_Q" x="12144" y="2112"/>
-      </children>
-      <children xmi:type="notation:Shape" xmi:id="_CHi_4NhOEeijPsEJykXn_Q" type="Note" fontName="Segoe UI" fontHeight="8" description="&lt;p>Priorities:&lt;/p>&lt;p>1. Critical&lt;/p>&lt;p>2. High Priority&lt;/p>&lt;p>3. Low Priority&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_CHjm8NhOEeijPsEJykXn_Q" type="DiagramName">
-          <element xsi:nil="true"/>
-        </children>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_CHjm8dhOEeijPsEJykXn_Q" type="Description">
-          <element xsi:nil="true"/>
-        </children>
-        <styles xmi:type="notation:TextStyle" xmi:id="_CHi_4dhOEeijPsEJykXn_Q"/>
-        <styles xmi:type="notation:LineTypeStyle" xmi:id="_CHi_4thOEeijPsEJykXn_Q"/>
-        <element xsi:nil="true"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CHi_49hOEeijPsEJykXn_Q" x="17292" y="396" width="2510" height="3966"/>
-      </children>
       <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_jGaNoNhOEeijPsEJykXn_Q" element="_Uszq0NhOEeijPsEJykXn_Q" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
         <children xmi:type="notation:DecorationNode" xmi:id="_jGaNothOEeijPsEJykXn_Q" type="ImageCompartment">
           <layoutConstraint xmi:type="notation:Size" xmi:id="_jGaNo9hOEeijPsEJykXn_Q" width="2216" height="1322"/>
@@ -99,7 +77,7 @@
         <element xsi:nil="true"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iOIsY9hPEeijPsEJykXn_Q" x="13596" y="8184" width="6346"/>
       </children>
-      <children xmi:type="notation:Shape" xmi:id="_EKlHQNhREeijPsEJykXn_Q" type="Note" fontName="Segoe UI" fontHeight="8" description="&lt;p>1. Each team leader is in charge of a team of developers. &lt;/p>&lt;p>2. They split tasks for a system between each other based on the teams strengths. &lt;/p>&lt;p>3. They then will assign priorities for some of the tasks.&lt;/p>&lt;p>4. They will provide deadlines on each task and at times provide extensions if a task runs past due date.&lt;/p>&lt;p>5. Team leaders can add new members to their teams, as well as remove members.&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
+      <children xmi:type="notation:Shape" xmi:id="_EKlHQNhREeijPsEJykXn_Q" type="Note" fontName="Segoe UI" fontHeight="8" description="&lt;p>1.Each team leader is in charge of a team of developers.&lt;/p>&lt;p>2.They split tasks for a system between each other based on the teams strengths.&lt;/p>&lt;p>3.They will provide deadlines on each task and at times provide extensions if a task runs past due date&lt;/p>&lt;p>4.Team leaders can add new members to their teams, as well as remove members.&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_EKluUNhREeijPsEJykXn_Q" type="DiagramName">
           <element xsi:nil="true"/>
         </children>
@@ -230,22 +208,6 @@
           <layoutConstraint xmi:type="notation:Location" xmi:id="_6NGuWNhMEeijPsEJykXn_Q" y="1058"/>
         </children>
         <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6NE5IdhMEeijPsEJykXn_Q" points="[16, 9, -109, -56]$[86, 50, -39, -15]"/>
-      </edges>
-      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_Jo2DkNhNEeijPsEJykXn_Q" element="_JoyZMNhNEeijPsEJykXn_Q" source="_2GLVMNhMEeijPsEJykXn_Q" target="_IyUEMNhNEeijPsEJykXn_Q" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
-        <children xmi:type="notation:DecorationNode" xmi:id="_Jo2qoNhNEeijPsEJykXn_Q" type="KindLabel">
-          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Jo2qothNEeijPsEJykXn_Q" type="Stereotype"/>
-          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Jo2qpNhNEeijPsEJykXn_Q" type="Kind"/>
-          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Jo2qo9hNEeijPsEJykXn_Q" type="Name"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Jo2qodhNEeijPsEJykXn_Q" y="-186"/>
-        </children>
-        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Jo2DkdhNEeijPsEJykXn_Q" points="[51, -10, -163, 30]$[217, -15, 3, 25]"/>
-      </edges>
-      <edges xmi:type="notation:Connector" xmi:id="_M_TMkNhOEeijPsEJykXn_Q" type="NoteAttachment" source="_IyUEMNhNEeijPsEJykXn_Q" target="_CHi_4NhOEeijPsEJykXn_Q" lineColor="0" lineWidth="1">
-        <styles xmi:type="notation:ArrowStyle" xmi:id="_M_TMkdhOEeijPsEJykXn_Q"/>
-        <styles xmi:type="notation:LineTypeStyle" xmi:id="_M_TMkthOEeijPsEJykXn_Q"/>
-        <element xsi:nil="true"/>
-        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_M_TMk9hOEeijPsEJykXn_Q" points="[11, -10, -108, 20]$[119, -29, 0, 1]"/>
-        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_M_VBwNhOEeijPsEJykXn_Q" id="(0.0,0.6377473363774734)"/>
       </edges>
       <edges xmi:type="umlnotation:UMLConnector" xmi:id="_jp1DwNhOEeijPsEJykXn_Q" element="_jpuWENhOEeijPsEJykXn_Q" source="_kNEloNhMEeijPsEJykXn_Q" target="_jGaNoNhOEeijPsEJykXn_Q" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
         <children xmi:type="notation:DecorationNode" xmi:id="_jp1q0NhOEeijPsEJykXn_Q" type="NameLabel">
